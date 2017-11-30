@@ -9,6 +9,7 @@ permalink: /about/
 ---
 
 I am Ali Rumane
+
 Admired "The Art of Elegant coding".
 
 Believe that practice makes perfect, and strive to change life.
