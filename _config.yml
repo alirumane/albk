@@ -6,17 +6,16 @@ url:
 date_format: "ordinal"
 title: Ali Rumane
 subtitle: "I use light weight heavy impact tools"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: 
+description: "Ali's personal blog"
+keywords: Embedded Systems, Ali Rumane, alirumane, electronics
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 3
 
 # ---------------- #
 #      Author      #
 # ---------------- #
 author: Ali Rumane
-organization: zkh360.com
+organization: Link
 organization_url: 
 github_username: alirumane
 location: Mumbai, India
@@ -28,23 +27,23 @@ email:
 navs:
   -
     href: /
-    label: 首页
+    label: Home
 
   -
     href: /categories/
-    label: 分类
+    label: Categories
 
   -
     href: /wiki/
-    label: 维基
+    label: Wiki
 
   -
     href: /links/
-    label: 链接
+    label: Links
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #
@@ -84,7 +83,7 @@ repository: alirumane/alirumane.github.io
 # ---------------- #
 # support provider: disqus, gitment, gitalk
 comments_provider: gitalk
-# !!!重要!!! 请修改下面这些信息为你自己申请的
+
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
@@ -102,7 +101,7 @@ gitalk:
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# 在使用其它评论组件时可点击显示 Disqus
+# Click to display Disqus when using other comment components
 lazy_load_disqus : false
 
 # ---------------- #
