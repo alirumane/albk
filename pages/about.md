@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: Change the world with electronics
+keywords: Ali Rumane, Ali
 comments: true
-menu: 关于
+menu: About
 permalink: /about/
 ---
 
